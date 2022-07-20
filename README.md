@@ -17,7 +17,9 @@ Steps:
    a. `cd nodejs`
 
    b. run `npm install` for install all packages
+   
+   c. create `.env` file in which you have specify `PORT="4000"` and `KEY="ADD_KEY"` you can get key from [https://home.openweathermap.org/api_keys](https://home.openweathermap.org/api_keys)
 
-   c. run `npm start`, this will run on [http://localhost:4000](http://localhost:4000)
+   d. run `npm start`, this will run on [http://localhost:4000](http://localhost:4000)
 
 When you enter any city name in the search box and after click on Search button you will get the weather details of that particular city. 
