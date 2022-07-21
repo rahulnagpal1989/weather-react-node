@@ -20,4 +20,4 @@ Steps:
 
    c. run `npm start`, this will run on [http://localhost:4000](http://localhost:4000)
 
-When you enter any city name in the search box and after click on Search button you will get the weather details of that particular city. 
+When you enter any city name(like London) in the search box and after click on Search button you will get the weather details of that particular city. 
